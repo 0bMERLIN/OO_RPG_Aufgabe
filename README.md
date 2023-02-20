@@ -28,3 +28,7 @@
 - Move somewhere by left-clicking
 - Attack using right-click
 - Print entity info using 'i'
+
+# Docs
+- UML:
+![UML Diagram](Docs/RPG.drawio.png)
